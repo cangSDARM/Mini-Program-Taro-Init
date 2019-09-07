@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'iconfont'; /* project id 1394438 */
+  src: url('//at.alicdn.com/t/font_1394438_i6rwh3y6j5j.eot');
+  src: url('//at.alicdn.com/t/font_1394438_i6rwh3y6j5j.eot?#iefix')
+      format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1394438_i6rwh3y6j5j.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1394438_i6rwh3y6j5j.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1394438_i6rwh3y6j5j.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1394438_i6rwh3y6j5j.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: inherit;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont-index:before {
+  content: '\e611';
+}
+
+.iconfont-video:before {
+  content: '\e617'; /*iconfont 的 Unicode码 */
+}
+
+.iconfont-broadcasting:before {
+  content: '\e600';
+}
+
+.iconfont-essay::before {
+  content: '\e61b';
+}
