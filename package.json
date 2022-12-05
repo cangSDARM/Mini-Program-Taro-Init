@@ -49,7 +49,7 @@
     "@tarojs/plugin-less": "1.3.17",
     "@tarojs/plugin-sass": "^1.3.17",
     "@tarojs/plugin-uglifyjs": "1.3.17",
-    "@tarojs/webpack-runner": "1.3.17",
+    "@tarojs/webpack-runner": "3.5.8",
     "@types/react": "^16.4.6",
     "@types/webpack-env": "^1.13.6",
     "babel-eslint": "^8.2.3",
